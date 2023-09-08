@@ -1,5 +1,5 @@
 <!-- RAINBOW LINE TOP -->
-<img src="[banner-github.gif](https://github.com/eliandata/eliandata/blob/main/banner-github.gif)" width="100%">
+<img src="https://github.com/eliandata/eliandata/blob/main/banner-github.gif" width="100%">
 
 <h1 align="center">Hi 👋, I'm Elianneth Cabrera</h1>
 
